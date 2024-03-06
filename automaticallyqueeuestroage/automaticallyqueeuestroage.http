@@ -1,0 +1,6 @@
+@automaticallyqueeuestroage_HostAddress = http://localhost:5097
+
+GET {{automaticallyqueeuestroage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

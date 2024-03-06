@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34414.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azurestoragefeaturedemo.api", "azurestoragefeaturedemo.api\azurestoragefeaturedemo.api.csproj", "{08558E22-9D88-447A-B679-C9BFFACB0FB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "automaticallyqueeuestroage", "automaticallyqueeuestroage\automaticallyqueeuestroage.csproj", "{D79C7CA1-F5D7-4DD4-B382-30681E7DDF1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08558E22-9D88-447A-B679-C9BFFACB0FB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08558E22-9D88-447A-B679-C9BFFACB0FB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08558E22-9D88-447A-B679-C9BFFACB0FB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08558E22-9D88-447A-B679-C9BFFACB0FB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D79C7CA1-F5D7-4DD4-B382-30681E7DDF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D79C7CA1-F5D7-4DD4-B382-30681E7DDF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D79C7CA1-F5D7-4DD4-B382-30681E7DDF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D79C7CA1-F5D7-4DD4-B382-30681E7DDF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A68ACDF9-434A-457D-BC43-88822746D0AB}
+	EndGlobalSection
+EndGlobal
